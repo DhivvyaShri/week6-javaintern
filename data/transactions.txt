@@ -1,0 +1,3 @@
+Added product: KeyBoard
+Updated product ID: 101
+Deleted product: WireLess Keyboard
